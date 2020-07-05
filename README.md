@@ -1,2 +1,3 @@
 # AISem3
-CW Code
+Home Credit Default Data set
+https://www.kaggle.com/c/home-credit-default-risk
